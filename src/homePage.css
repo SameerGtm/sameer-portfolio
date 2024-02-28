@@ -1,0 +1,11 @@
+.profile-container {
+    margin-top: 3%;
+}
+
+/* Assuming your image has a class name of "profile-image" */
+.profile-image {
+    height: 50vh;
+    
+    border-radius: 50%;
+    /* Set other styles like width, height, and border if needed */
+  }
